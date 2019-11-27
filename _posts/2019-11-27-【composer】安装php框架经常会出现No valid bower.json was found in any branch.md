@@ -4,7 +4,7 @@ title:     【composer】安装yii2框架经常会出现No valid bower.json等�
 subtitle:   安装php框架经常会出现 No valid bower.json was found in any branch or tag of https://github.com/blueimp/JavaScript-Canvas-to-Blob.git, cou ld not load a package from it.
 date:       2019-11-27
 author:     25ma
-header-img: img/post-bg-ios10.jpg
+header-img: 
 catalog: true
 tags:
     - php
